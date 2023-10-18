@@ -1,5 +1,7 @@
 # Relatório CAGED (tabelas) automatizado
 
+## Três orientações: (1) O link "url <- "http://pdet.mte.gov.br/images/Novo_CAGED/2023/202308/3-tabelas.xlsx" provavelmente sofrerá mudanças ao longo do tempo. Perceba que ele indica ser um diretório que corresponde ao ano e mês, então provavelmente os próximos meses alterarão para 2023/09, 2023/10... e assim por diante. Na dúvida vá até o site do Caged (https://pdet.mte.gov.br/novo-caged) e confira o novo link. (2) Na linha 84 é que você escolhe para qual cidade pretende geral o relatório. (3) Caso queira um PDF sem scripts basta alterar os argumentos dos chunck echo=T para echo=F. 
+
 Mensalmente, o Ministério do Trabalho divulga um relatório contendo dados sobre as movimentações no mercado de trabalho formal regido pela Consolidação das Leis do Trabalho (CLT). Estes dados estão disponíveis
 em dois formatos: microdados acessíveis via FTP e tabelas em formato Excel disponibilizadas diretamente no portal do Ministério.
 
